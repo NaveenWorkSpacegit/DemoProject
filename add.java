@@ -4,7 +4,7 @@ import javax.swing.text.PlainDocument;
 
 public class add {
     public static void main(String[] args) {
-        int a = 100;
+        int a = 500;
         int b = 2;
         System.out.println(a+b);
     }
